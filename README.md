@@ -18,7 +18,7 @@
 </p>
 <h2 align='center'><i>Top Repos</i></h2>
 <p align="center">
-<a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+<a href="https://github.com/dlOwOlb/idle_project">
  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dlOwOlb&repo=idle_project&theme=vue-dark&hide_border=true" height="185">
 </a>
 </p>
