@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<img src="https://readme-typing-svg.herokuapp.com/?lines=dlOwOlb's%20Space;Welcome%20Visitor!&font=Roboto" />
 <!--
 **dlOwOlb/dlOwOlb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Github Stats
+![](https://github-readme-stats.vercel.app/api?username=dlOwOlb&show_icons=true&theme=dark&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dlOwOlb&theme=dark&layout=compact)
+<img src="https://visitor-badge.glitch.me/badge?page_id=https://github.com/dlOwOlb&right_color=red" />
+![](https://activity-graph.herokuapp.com/graph?username=dlOwOlb&theme=github)
+
+
