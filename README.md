@@ -5,7 +5,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=dlOwOlb&show_icons=true&theme=dark&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dlOwOlb&theme=dark&layout=compact)
 <img src="https://visitor-badge.glitch.me/badge?page_id=https://github.com/dlOwOlb&right_color=red" />
-[![dlOwOlb's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=dlOwOlb&theme=dracula)]
+[![dlOwOlb's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=dlOwOlb&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--
 **dlOwOlb/dlOwOlb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
