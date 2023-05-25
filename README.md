@@ -5,6 +5,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=dlOwOlb&show_icons=true&include_all_commits=true&theme=algolia" alt="GitHub Stats"/>
 </p>
 <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dlOwOlb&rank=SECRET,SSS,SS,S,AAA,AA,A,B&theme=dracula&column=-1&no-frame=true" width="120"/>
+ </p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dlOwOlb&layout=compact&theme=algolia" alt="Top Languages"/>
 </p>
 <h2 align='center'><i>Activity Graph 📈</i></h2>
