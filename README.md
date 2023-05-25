@@ -22,7 +22,7 @@
 <h2 align='center'><i>Top Repos</i></h2>
 <p align="center">
 <a href="https://github.com/dlOwOlb/idle_project">
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=dlOwOlb&repo=idle_project&theme=vue-dark&hide_border=true" height="185">
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=dlOwOlb&repo=idle_project&theme=vue-dark&hide_border=true" height="120">
 </a>
 </p>
 
