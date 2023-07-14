@@ -1,5 +1,5 @@
 <h2 align="center"><i>Hello There~</i></h2>
-<p align="center">I'm a full stack developer with poor ability.I am currently working as an OA system administrator,I wish I will learn more technology.</p>
+<p align="center">I'm a full stack developer with poor ability.I am currently working as an AppOps,I wish I will learn more technology.</p>
 <h2 align="center"><i>Github Stats</i></h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Gatsby0108&show_icons=true&include_all_commits=true&theme=algolia" alt="GitHub Stats"/>
